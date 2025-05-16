@@ -1,0 +1,11 @@
+
+
+Shared By
+David Lee
+
+October 2020
+https://public.roboflow.com/object-detection/american-sign-language-letters
+
+https://arxiv.org/pdf/2410.17725
+
+https://medium.com/@nikhil-rao-20/yolov11-explained-next-level-object-detection-with-enhanced-speed-and-accuracy-2dbe2d376f71

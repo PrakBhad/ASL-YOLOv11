@@ -1,0 +1,13 @@
+@misc{
+                            sign-recoginition_dataset,
+                            title = { Sign recoginition Dataset },
+                            type = { Open Source Dataset },
+                            author = { Sign Recognintion },
+                            howpublished = { \url{ https://universe.roboflow.com/sign-recognintion/sign-recoginition } },
+                            url = { https://universe.roboflow.com/sign-recognintion/sign-recoginition },
+                            journal = { Roboflow Universe },
+                            publisher = { Roboflow },
+                            year = { 2023 },
+                            month = { mar },
+                            note = { visited on 2025-04-09 },
+                            }

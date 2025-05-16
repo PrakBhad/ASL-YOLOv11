@@ -1,0 +1,4 @@
+
+
+Raimundo F. Pinto Jr., Carlos D. B. Borges, Antônio M. A. Almeida, and Iális C. Paula, Jr., “Static Hand Gesture Recognition Based on Convolutional Neural Networks,” Journal of Electrical and Computer Engineering, vol. 2019, Article ID 4167890, 12 pages, 2019. https://doi.org/10.1155/2019/4167890.
+
